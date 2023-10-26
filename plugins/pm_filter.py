@@ -460,10 +460,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton('Channel 👀', url='https://t.me/+hAX3mPo4Agw1NDJl'),
+                              InlineKeyboardButton('Channel 👀', url='https://t.me/+jARGKkERm1RlNDU1'),
                               InlineKeyboardButton('Group 👀', url='https://t.me/+sR8_xQKsGA5iNGI1')
                            ],[
-                              InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+u7wOJcLYKA80NzQ1')
+                              InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+jARGKkERm1RlNDU1')
                              ]
                             ]
                         )
@@ -784,13 +784,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('➕ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Channel 👀', url='https://t.me/+hAX3mPo4Agw1NDJl'),
+                    InlineKeyboardButton('Channel 👀', url='https://t.me/+jARGKkERm1RlNDU1'),
                     InlineKeyboardButton('Group 👀', url='https://t.me/+sR8_xQKsGA5iNGI1')
                 ],[
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
                 ],[
-                    InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+u7wOJcLYKA80NzQ1')
+                    InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+jARGKkERm1RlNDU1')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
