@@ -170,7 +170,7 @@ If You Still Don't Get Movies then Owner Will Update Within 12Hour"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>{file_name}</b> <b>{Fast Download Link :{link}}</b> \n\n🏆 <i><b>HOW TO OPEN LINK » [clickme](https://t.me/leobackupfo) \n\n🏆 <i><b>Main Channel » [Leothalapathy](https://t.me/+jARGKkERm1RlNDU1)</i>"""
+<b>{file_name} Fast Download Link:{link}</b> \n\n🏆 <i><b>HOW TO OPEN LINK » [clickme](https://t.me/leobackupfo) Main Channel » [Leothalapathy](https://t.me/+jARGKkERm1RlNDU1)</i>"""
 
     IMDB_TEMPLATE_TXT = """
 <b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/kpslinkteam/13) </i></b>"""
